@@ -1,0 +1,2 @@
+# delta
+Back Propagation Algorithm
